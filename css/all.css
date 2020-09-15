@@ -50,11 +50,11 @@ table {
 
 html {
   transition: 0.5s all;
-  color: #3F5D45; }
+  color: #000; }
 
 a {
   text-decoration: none;
-  color: #3F5D45; }
+  color: #000; }
 
 input:focus {
   outline: none; }
